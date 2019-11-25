@@ -1,0 +1,37 @@
+/**
+login component css
+**/
+
+.headerImage{
+    padding: 15%;
+}
+.eyeIcon{
+    position: absolute;
+    top: 11px;
+    right: 12px;
+    padding: 2px 0 3px 10px;
+    border-left: 1px solid grey;
+}
+.passwordDiv{
+    position: relative;
+    margin-bottom: 20px;
+}
+.passwordDiv input{
+    padding-right: 48px;
+}
+.resetPasswordDiv{
+    position: relative;
+    
+}
+.resetPasswordDiv input{
+    padding-right: 48px;
+}
+.captchaClass{
+    display: "inline-block"
+}
+.toggleLInk{
+    margin-left: 45%;
+}
+.toggleLInkForgotPass{
+    margin-left: 30%;
+}
