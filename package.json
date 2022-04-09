@@ -9,7 +9,7 @@
     "history": "^4.9.0",
     "lodash": "^4.17.14",
     "mdbreact": "^4.18.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.8.6",
     "react-csv": "^1.1.1",
     "react-csv-reader": "^1.2.2",
